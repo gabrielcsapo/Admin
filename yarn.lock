@@ -2001,10 +2001,10 @@
   dependencies:
     unidecode "^0.1.8"
 
-"@tryghost/timezone-data@0.2.53":
-  version "0.2.53"
-  resolved "https://registry.yarnpkg.com/@tryghost/timezone-data/-/timezone-data-0.2.53.tgz#50d9ae3e394cd372f21774eb14806e59fafde4af"
-  integrity sha512-Kd2i7dubMrZCDb/X6EySF38rgdRY3aMQ/rqDx25lR5Y/Dk4yRR8gDMBJrWUx48lPREJ4FMuhOW5XehCaqrNI8A==
+"@tryghost/timezone-data@0.2.54":
+  version "0.2.54"
+  resolved "https://registry.yarnpkg.com/@tryghost/timezone-data/-/timezone-data-0.2.54.tgz#2c772aa48d29bdc4ae5484d77eb7969d23207869"
+  integrity sha512-CH+9FPlgr5HLY7OzJabfE9vW37FuHuBHZ5a5Qejjp24TyGzG25Trx5M2MWueHaJTu2GDXapdrC2+CzqMsJdNTA==
 
 "@types/acorn@^4.0.3":
   version "4.0.6"
